@@ -26,3 +26,11 @@ Project Files:
 - eshop.c    → Implements the core functions of the e-shop.
 
 
+Instructions : 
+- insert commands in the following order :
+- make
+- ./server
+- open a new terminal window
+- ./client
+To remove compiled files :
+- make clean
